@@ -2,7 +2,7 @@ const Host = {
   ROOT: "http://localhost:3001",
   PREFIX: "/v1/api",
   //FRONTEND: "https://www.milo-jbilu.xyz",
-  FRONTEND: "http://solidernet.com",
+  FRONTEND: "https://cheap-shop.net",
 }
   
 const ApiEndpoints = {  
