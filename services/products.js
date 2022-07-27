@@ -1,6 +1,5 @@
 const ProductsRquest = require("../models/products")
 const FilesServ = require("../services/file")
-const http = require('http');
 const fs = require('fs');
 const path = require("path")
 const puppeteer = require('puppeteer');

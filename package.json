@@ -5,8 +5,8 @@
   "main": "app.js",
   "dependencies": {
     "@paypal/checkout-server-sdk": "^1.0.3",
-    "aliexpress-product-scraper": "^1.0.6",
     "bcryptjs": "^2.4.3",
+    "cheerio": "^1.0.0-rc.12",
     "colornames": "^1.1.1",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
